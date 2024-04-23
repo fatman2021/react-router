@@ -25,7 +25,7 @@
   "license": "MIT",
   "devDependencies": {
     "browserify": "4.2.3",
-    "browserify-shim": "3.6.0",
+    "browserify-shim": "3.8.16",
     "bundle-loader": "0.5.0",
     "envify": "1.2.0",
     "expect": "0.1.1",
