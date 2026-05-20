@@ -41,7 +41,7 @@
     "rf-release": "0.1.2",
     "uglify-js": "2.6.0",
     "webpack": "5.104.1",
-    "webpack-dev-server": "5.2.1"
+    "webpack-dev-server": "5.2.4"
   },
   "peerDependencies": {
     "react": ">=0.11.0"
